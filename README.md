@@ -1,1 +1,1 @@
-This is my first project called "odin-recipes"
+This is my first project called "odin-recipes" (2hours)
